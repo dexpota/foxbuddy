@@ -1,0 +1,39 @@
+{
+	"Corpo": {
+		"Bioingegneria": {
+			"MUword": "protesi",
+			"T10words": ["protesi", "biologia", "scienza", "biomedica", "biocompatibilità", "progettazione", "neurofisiologia", "bionica", "ricostruzione", "organi", "telemedicina"],
+			"Connections": ["02", "05", "23", "15", "36", "32", "68"]
+		},
+		"Robotica": {
+			"MUword": "meccatronica",
+			"T10words": ["meccatronica", "robotica", "autonomo", "automa", "meccanica", "cinetica", "umanoide", "robot", "drone", "androide"],
+			"Connections": ["01", "27", "45", "48", "56", "61", "70"]
+		},
+		"Lavoro 4.0": {
+			"MUword": "industria",
+			"T10words": ["industria", "smart-work", "competenze", "tempo-libero", "industria-4.0", "fabbriche", "macchinari", "impiegati", "contratto", "lavoratore"],
+			"Connections": ["13", "19", "27", "31", "36", "44", "59"]
+		},
+		"Wearable Tech": {
+			"MUword": "wearable",
+			"T10words": ["wearable", "indossabile", "sensori", "orologi", "watch", "monitorare", "esoscheletro", "glasses", "gaming", "gloves"],
+			"Connections": ["06", "15", "32", "37", "54", "66", "68"]
+		},
+		"Transumanesimo": {
+			"MUword": "oltreumano",
+			"T10words": ["oltreumano", "movimento", "evoluzione", "post-umano", "genoma-editing", "miglioramento", "criogenesi", "sovrannaturali", "darwniniana", "mind-uploading"],
+			"Connections": ["01", "70", "69", "23", "55", "09", "18"]
+		},
+		"Medicina Predittiva": {
+			"MUword": "prevenzione",
+			"T10words": ["prevenzione", "determinazione", "predittiva", "diagnosi", "precoce", "patologia", "predisposizione", "stile-di-vita", "progredire"],
+			"Connections": ["36", "27", "68", "60", "50", "40", "07"]
+		},
+		"Human Enhancement": {
+			"MUword": "potenziamento",
+			"T10words": ["potenziamento", "enhancement", "limitazioni", "attitudine", "fenotipo", "nanotecnologie", "bioetica", "modificare", "neurotecnologie", "guerra"],
+			"Connections": ["05", "11", "14", "22", "39", "43", "54"]
+		}
+	}
+}
